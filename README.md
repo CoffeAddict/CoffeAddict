@@ -32,6 +32,6 @@
 <p><img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" alt="c#" /> </p>
 
 <p align="left">
-<img align="left" src="https://github-readme-stats.vercel.app/api?username=elangosundar&theme=dark&show_icons=true" alt="Elangovan" />
+<img align="left" src="https://github-readme-stats.vercel.app/api?username=coffeaddict&theme=dark&show_icons=true" alt="Elangovan" />
 <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=coffeaddict&theme=dark&show_icons=true&locale=en&layout=compact" alt="coffeaddict" />
 </p>
