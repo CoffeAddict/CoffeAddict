@@ -31,7 +31,10 @@
 
 ##### Extra 
 
-<p><img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" alt="c#" /> </p>
+<p>
+  <img src="https://img.shields.io/badge/C%23-9D4F97?style=for-the-badge&logo=c-sharp&logoColor=white" alt="c#" />
+  <img src="https://img.shields.io/badge/Unity-000000?style=for-the-badge&logo=unity&logoColor=white" alt="unity" />
+</p>
 
 <p align="left">
 <img align="left" src="https://github-readme-stats.vercel.app/api?username=coffeaddict&theme=dark&show_icons=true" alt="Elangovan" />
