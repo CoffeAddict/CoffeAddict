@@ -25,7 +25,9 @@
 
 ##### Testing 🧪
 
-<p><img src="https://img.shields.io/badge/Jest-323330?style=for-the-badge&logo=Jest&logoColor=white" alt="jest" /> </p>
+<p><img src="https://img.shields.io/badge/Jest-323330?style=for-the-badge&logo=Jest&logoColor=white" alt="jest" />
+<img src="https://img.shields.io/badge/Cypress-1C1E2E?style=for-the-badge&logo=cypress&logoColor=white" alt="cypress" /></p>
+
 
 ##### Extra 
 
