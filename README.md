@@ -7,6 +7,10 @@
 
 #### **Tech Stack 💻**
 
+##### Currently Learning 📚
+<p><img src="https://img.shields.io/badge/React.js-323330?style=for-the-badge&logo=react" alt="react" />
+<img src="https://img.shields.io/badge/vite-1E1E20?style=for-the-badge&logo=vite" alt="vite" /></p>
+
 ##### Frontend 🎨
 
 <p><img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" alt="javascript" />
