@@ -38,6 +38,7 @@
 <p>
   <img src="https://img.shields.io/badge/C%23-9D4F97?style=for-the-badge&logo=c-sharp&logoColor=white" alt="c#" />
   <img src="https://img.shields.io/badge/Unity-ffffff?style=for-the-badge&logo=unity&logoColor=black" alt="unity" />
+  <img src="https://img.shields.io/badge/Shopify-96BF47?style=for-the-badge&logo=shopify&logoColor=white" alt="shopify" />
 </p>
 
 <p align="left">
